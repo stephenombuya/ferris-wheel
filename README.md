@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/ferris-wheel-project.git
+git clone https://github.com/stephenombuya/ferris-wheel
 ```
 
 2. Navigate to the project folder:
